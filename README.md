@@ -1,6 +1,7 @@
 # CVPR2020-Code
 
-CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分享CVPR 2020开源项目
+CVPR 2020 
+Collection of open source projects for thesis. At the same time, everyone is welcome to submit issues and share CVPR 2020 open source projects
 
 - [Image-Classification 图像分类](#Image-Classification)
 - [Object-Detection 目标检测](#Object-Detection)
@@ -37,7 +38,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 **Spatially Attentive Output Layer for Image Classification**
 
-- 论文：还没有公布
+- Paper: Not yet published
 
 - 代码： https://github.com/ildoonet/spatially-attentive-output-layer 
 
@@ -209,7 +210,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 代码：https://github.com/ilovepose/DarkPose 
 
-## 3D人体姿态估计
+## 3D human pose estimation
 
 **Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation**
 
@@ -236,14 +237,14 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # Scene-Text-Detection 点云
 
-## 点云分类
+## Point cloud classification
 
 **PointAugment: an Auto-Augmentation Framework for Point Cloud Classification**
 
 - 论文：https://arxiv.org/abs/2002.10876 
 - 代码（即将开源）： https://github.com/liruihui/PointAugment/ 
 
-# 场景文本检测
+# Scene text detection
 
 **ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network**
 
@@ -264,7 +265,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # Super-Resolution 超分辨率
 
-## 视频超分辨率
+## Video super resolution
 
 **Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution**
 
@@ -292,9 +293,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # Depth-Estimation深度估计
 
-# 深度估计
-
-## 单目深度估计
+## Monocular depth estimation
 
 **Domain Decluttering: Simplifying Images to Mitigate Synthetic-Real Domain Shift and Improve Depth Estimation**
 
