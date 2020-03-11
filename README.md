@@ -2,38 +2,38 @@
 
 CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分享CVPR 2020开源项目
 
-- [图像分类](#Image-Classification)
-- [目标检测](#Object-Detection)
-- [3D目标检测](#3D-Object-Detection)
-- [目标跟踪](#Object-Tracking)
-- [语义分割](#Semantic-Segmentation)
-- [实例分割](#Instance-Segmentation)
+- [Image-Classification 图像分类](#Image-Classification)
+- [Object-Detection 目标检测](#Object-Detection)
+- [3D-Object-Detection 3D目标检测](#3D-Object-Detection)
+- [Object-Tracking 目标跟踪](#Object-Tracking)
+- [Semantic-Segmentation 语义分割](#Semantic-Segmentation)
+- [Instance-Segmentation 实例分割](#Instance-Segmentation)
 - [视频目标分割](#VOS)
 - [NAS](#NAS)
 - [GAN](#GAN)
 - [Re-ID](#Re-ID)
 - [3D点云](#3D-PointCloud)
-- [人脸检测](#Face-Detection)
-- [活体检测](#FAS)
-- [人脸表情识别](#Facial-Expression-Recognition)
-- [人体姿态估计](#Human-Pose-Estimation)
-- [场景文本检测](#Scene-Text-Detection)
-- [场景文本识别](#Scene-Text-Recognition)
-- [模型剪枝](#Model-Pruning)
-- [行为识别](#Action-Recognition)
-- [人群计数](#Crowd-Counting)
-- [深度估计](#Depth-Estimation)
-- [视觉问答](#VQA)
-- [视觉语言导航](#VLN)
-- [视频压缩](#Video-Compression)
-- [行为轨迹预测](#HTP)
-- [数据集](#Datasets)
-- [其他](#Others)
-- [不确定中没中](#Not-Sure)
+- [3D-PointCloud 人脸检测](#Face-Detection)
+- [FAS 活体检测](#FAS)
+- [Facial-Expression-Recognition 人脸表情识别](#Facial-Expression-Recognition)
+- [Human-Pose-Estimation 人体姿态估计](#Human-Pose-Estimation)
+- [Scene-Text-Detection 场景文本检测](#Scene-Text-Detection)
+- [Scene-Text-Recognition 场景文本识别](#Scene-Text-Recognition)
+- [Model-Pruning 模型剪枝](#Model-Pruning)
+- [Action-Recognition 行为识别](#Action-Recognition)
+- [Crowd-Counting 人群计数](#Crowd-Counting)
+- [Depth-Estimation 深度估计](#Depth-Estimation)
+- [VQA 视觉问答](#VQA)
+- [VLN 视觉语言导航](#VLN)
+- [Video-Compression 视频压缩](#Video-Compression)
+- [HTP 行为轨迹预测](#HTP)
+- [Datasets 数据集](#Datasets)
+- [Others 其他](#Others)
+- [Not-Sure 不确定中没中](#Not-Sure)
 
 <a name="Image-Classification"></a>
 
-# 图像分类
+# Image-Classification 图像分类
 
 **Spatially Attentive Output Layer for Image Classification**
 
@@ -43,7 +43,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 <a name="Object-Detection"></a>
 
-# 目标检测
+# Object-Detection 目标检测
 
 **Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection**
 
@@ -57,7 +57,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 <a name="3D-Object-Detection"></a>
 
-# 3D目标检测
+# 3D-Object-Detection 3D目标检测
 
 **Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud**
 
@@ -66,7 +66,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 <a name="Object-Tracking"></a>
 
-# 目标跟踪
+# Object-Tracking 目标跟踪
 
 **MAST: A Memory-Augmented Self-supervised Tracker**
 
@@ -76,11 +76,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 <a name="Semantic-Segmentation"></a>
 
-# 语义分割
+# Semantic-Segmentation 语义分割
 
 <a name="Instance-Segmentation"></a>
 
-# 实例分割
+# Instance-Segmentation 实例分割
 
 **PolarMask: Single Shot Instance Segmentation with Polar Representation**
 
@@ -101,7 +101,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 <a name="VOS"></a>
 
-# 视频目标分割
+# VOS 视频目标分割
 
 **State-Aware Tracker for Real-Time Video Object Segmentation**
 
@@ -149,16 +149,16 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 <a name="3D-PointCloud"></a>
 
-# 3D点云
+# 3D-PointCloud 3D点云
 
-## 点云卷积
+## Point cloud convolution 点云卷积
 
 **FPConv: Learning Local Flattening for Point Convolution**
 
 - 论文：https://arxiv.org/abs/2002.10701
 - 代码：https://github.com/lyqun/FPConv
 
-## 3D点云配准
+## 3D point cloud registration  3D点云配准
 
 **D3Feat: Joint Learning of Dense Detection and Description of 3D Local Features**
 
@@ -167,11 +167,11 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 <a name="Face-Detection"></a>
 
-# 人脸检测
+# Face-Detection 人脸检测
 
 <a name="FAS"></a>
 
-# 活体检测
+# FAS 活体检测
 
 **Searching Central Difference Convolutional Networks for Face Anti-Spoofing**
 
@@ -181,7 +181,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 <a name="Facial-Expression-Recognition"></a>
 
-# 人脸表情识别
+# Facial-Expression-Recognition 人脸表情识别
 
 **Suppressing Uncertainties for Large-Scale Facial Expression Recognition**
 
@@ -191,7 +191,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 <a name="Human-Pose-Estimation"></a>
 
-# 人体姿态估计
+# Human-Pose-Estimation 人体姿态估计
 
 ## 2D人体姿态估计
 
@@ -234,7 +234,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 <a name="Scene-Text-Detection"></a>
 
-# 点云
+# Scene-Text-Detection 点云
 
 ## 点云分类
 
@@ -253,7 +253,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 <a name="Scene-Text-Recognition"></a>
 
-# 场景文本识别
+# Scene-Text-Recognitio 场景文本识别
 
 **ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network**
 
@@ -262,7 +262,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 <a name="Super-Resolution"></a>
 
-# 超分辨率
+# Super-Resolution 超分辨率
 
 ## 视频超分辨率
 
@@ -273,7 +273,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 <a name="Model-Pruning"></a>
 
-# 模型剪枝
+# Model-Pruning 模型剪枝
 
 **HRank: Filter Pruning using High-Rank Feature Map**
 
@@ -282,15 +282,15 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 <a name="Action-Recognition"></a>
 
-# 行为识别
+# Action-Recognition 行为识别
 
 <a name="Crowd-Counting"></a>
 
-# 人群计数
+# Crowd-Counting 人群计数
 
 <a name="Depth-Estimation"></a>
 
-# 深度估计
+# Depth-Estimation深度估计
 
 # 深度估计
 
@@ -304,7 +304,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 <a name="VQA"></a>
 
-# 视觉问答
+# VQA 视觉问答
 
 **VC R-CNN：Visual Commonsense R-CNN** 
 
@@ -313,7 +313,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 <a name="VLN"></a>
 
-# 视觉语言导航
+# VLN 视觉语言导航
 
 **Towards Learning a Generic Agent for Vision-and-Language Navigation via Pre-training**
 
@@ -322,7 +322,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 <a name="Video-Compression"></a>
 
-# 视频压缩
+# Video-Compression 视频压缩
 
 **Learning for Video Compression with Hierarchical Quality and Recurrent Enhancement**
 
@@ -331,7 +331,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 <a name="HTP"></a>
 
-# 行人轨迹预测
+# HTP 行人轨迹预测
 
 **Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction**
 
@@ -340,7 +340,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 <a name="Datasets"></a>
 
-# 数据集
+# Datasets 数据集
 
 **IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning**
 
@@ -354,7 +354,7 @@ CVPR 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 <a name="Others"></a>
 
-# 其他
+# Others 其他
 
 **GhostNet: More Features from Cheap Operations**
 
@@ -433,7 +433,7 @@ https://github.com/bermanmaxim/AOWS
 
 <a name="Not-Sure"></a>
 
-# 不确定中没中
+# Not-Sure 不确定中没中
 
 **FADNet: A Fast and Accurate Network for Disparity Estimation**
 
